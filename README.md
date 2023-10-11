@@ -1,5 +1,5 @@
 # HRAnaytics_Dashboard
-HR Anaytics Dashboard using Tableau, To visualize and analyze HR data and create an interactive and dynamic dashboard
+HR Analytics Dashboard using Tableau, To visualize and analyze HR data and create an interactive and dynamic dashboard
 Step-by-step Description of HR Analytics Dashboard:
 
 1.Data Source Connection:
